@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\dcit318-assignment2-11078728\Task22\Task22\bin\Debug\net8.0\Task22.exe
+C:\Users\HP\source\repos\dcit318-assignment2-11078728\Task22\Task22\bin\Debug\net8.0\Task22.deps.json
+C:\Users\HP\source\repos\dcit318-assignment2-11078728\Task22\Task22\bin\Debug\net8.0\Task22.runtimeconfig.json
+C:\Users\HP\source\repos\dcit318-assignment2-11078728\Task22\Task22\bin\Debug\net8.0\Task22.dll
+C:\Users\HP\source\repos\dcit318-assignment2-11078728\Task22\Task22\bin\Debug\net8.0\Task22.pdb
+C:\Users\HP\source\repos\dcit318-assignment2-11078728\Task22\Task22\obj\Debug\net8.0\Task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\dcit318-assignment2-11078728\Task22\Task22\obj\Debug\net8.0\Task22.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\dcit318-assignment2-11078728\Task22\Task22\obj\Debug\net8.0\Task22.AssemblyInfo.cs
+C:\Users\HP\source\repos\dcit318-assignment2-11078728\Task22\Task22\obj\Debug\net8.0\Task22.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\dcit318-assignment2-11078728\Task22\Task22\obj\Debug\net8.0\Task22.sourcelink.json
+C:\Users\HP\source\repos\dcit318-assignment2-11078728\Task22\Task22\obj\Debug\net8.0\Task22.dll
+C:\Users\HP\source\repos\dcit318-assignment2-11078728\Task22\Task22\obj\Debug\net8.0\refint\Task22.dll
+C:\Users\HP\source\repos\dcit318-assignment2-11078728\Task22\Task22\obj\Debug\net8.0\Task22.pdb
+C:\Users\HP\source\repos\dcit318-assignment2-11078728\Task22\Task22\obj\Debug\net8.0\Task22.genruntimeconfig.cache
+C:\Users\HP\source\repos\dcit318-assignment2-11078728\Task22\Task22\obj\Debug\net8.0\ref\Task22.dll
